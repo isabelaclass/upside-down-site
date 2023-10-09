@@ -3,9 +3,9 @@
 </p>
 
 -------
-Site criado durante Live coding dos isntrutores da plataforma DIO.
+Site criado em conjunto com os instrutuores da plataforma DIO durante duas sessões de Live Coding.
 
-## ▶️ Semana Front-end
+## ▶️ Semana Front-end - Link das Sessões
 - [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
 - [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
 ## 💻 Tecnologias
