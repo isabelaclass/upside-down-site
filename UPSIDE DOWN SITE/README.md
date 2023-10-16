@@ -3,12 +3,13 @@
 </p>
 
 -------
-Site criado em conjunto com os instrutuores da plataforma DIO durante duas sessões de Live Coding.
+Site created with DIO instructors during Live Coding sessions. 
+Links to the sessions: 
 
-## ▶️ Semana Front-end - Link das Sessões
-- [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
-- [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
-## 💻 Tecnologias
+## ▶️ Front-End Week
+- [Live Day 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
+- [Live Day 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
+## 💻 Tech
 - HTML
 - CSS
 - JavaScript
